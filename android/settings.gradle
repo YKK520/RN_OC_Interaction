@@ -1,0 +1,3 @@
+rootProject.name = 'RN_OC_Interaction'
+
+include ':app'
